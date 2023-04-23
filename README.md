@@ -11,3 +11,5 @@ Education: **Student of Netology**
    
 ### Dreams
 Travel around the world
+
+![image](https://user-images.githubusercontent.com/130651216/233833508-0695434f-b2d1-40c4-9cc7-776bcb962217.png)
